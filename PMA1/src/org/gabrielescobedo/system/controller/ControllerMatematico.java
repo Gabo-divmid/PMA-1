@@ -1,9 +1,5 @@
 package org.gabrielescobedo.system.controller;
 
-/**
- *
- * @author Gregory Jeronimo
- */
 public class ControllerMatematico {
         public void CalculadoraSalario() {
         
