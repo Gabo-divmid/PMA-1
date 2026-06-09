@@ -23,7 +23,7 @@ public class MenuPrincipal {
             switch (opcion) {
 
                 case "1":
-                    new ControllerMatematico().MenuMatematico();
+                    new ControllerMatematico().menuMatematico();
                     break;
 
                 case "2":
